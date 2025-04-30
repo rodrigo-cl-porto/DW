@@ -1,1 +1,11 @@
+# Ambiente virtual do Python
 .venv
+
+# Pasta de certificados SSL/TSL
+certificates
+
+# Pasta de testes
+test
+
+# Variáveis de ambiente
+.env
